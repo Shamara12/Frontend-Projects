@@ -27,7 +27,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here]((https://frontend-projects-zz2x.vercel.app/))
+- Live Site URL: [live site URL](https://frontend-projects-zz2x.vercel.app/))
 
 ## My process
 
